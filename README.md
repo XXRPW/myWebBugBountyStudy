@@ -9,3 +9,6 @@ This is a study for web bugbounty applications and starts from the very beginnin
 *Before I began this*
 These studies are only for educational purposes and I am not responsible any illegal actions made by the reader
 
+
+# Content
+<a href="WebApplicationSecurity.md">Web Application (In)Security</a>
