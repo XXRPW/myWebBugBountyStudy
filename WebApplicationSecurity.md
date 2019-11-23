@@ -21,7 +21,7 @@ These days what were perceived as "internal" applications are increasingly being
 11-23-19
 I wil just copy the quick summary of this chapter because this chapter isn't really that imoprtnat 
 
-Summary:
+# Summary
 
 In a little over a decade, the World Wide Web has evolved from purely static information repositories into highly functional applications that process sensitive data and perform powerful actions with real-world consequences. During this development, several factors have combined to bring about the weak security posture demonstrated by the majority of today’s web applications.
 Most applications face the core security problem that users can submit arbi- trary input. Every aspect of the user’s interaction with the application may be malicious and should be regarded as such unless proven otherwise. Failure to properly address this problem can leave applications vulnerable to attack in numerous ways.
