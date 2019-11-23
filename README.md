@@ -11,4 +11,5 @@ These studies are only for educational purposes and I am not responsible any ill
 
 
 # Content
-<a href="WebApplicationSecurity.md">Web Application (In)Security</a>
+<a href="WebApplicationSecurity.md">Web Application (In)Security</a><br><br>
+<a href ="CoreDefenseMechanism.md">Core Defense Mechanism</a>
