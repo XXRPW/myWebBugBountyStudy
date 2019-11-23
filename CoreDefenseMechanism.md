@@ -5,5 +5,9 @@ In this reading, it will explain many defense mechanism
 Most web applications use these mechanisms when they are handling access:
 >Authentication
 <br>
->Session management<br>
+
+>Session management
+<br>
+
+
 >Access control<br>
