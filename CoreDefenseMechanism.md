@@ -22,3 +22,4 @@ Authentication mechanism is logically the most basic dependency in an applicatio
 
 ### Session Management
 
+This mechanism is when the Authentication session has passed and when the user goes to the next part and gets a visual of various types of informations, making a series of HTTP requests. Then if you think about it, there should be a way for the web application to identify from the various HTTP requests which is who. So what many web applicatoins use is that they give a token to a user and make their token to return in each subsequent HTTP requests. HTTP cookies are a standard way token. In terms of attack, the token takes up a big job. And the defects on this mechanism come from how the token is generated. If there is a defect in how the token is generated and if the attacker gains a specific token, the attacker can mimic as the user and gain sensitive informations.
