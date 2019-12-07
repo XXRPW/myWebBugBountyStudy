@@ -31,3 +31,6 @@ After both mechanisms explained are safely completed, the web application needs 
 
 # Handling User Input
 
+As a recall, all user inputs are untrusted. Often times a lot of attacks are based on unexpected inputs, causing actions that was not a purpose of the developer. So these days "input validation" seems like a necessary defense against these unexpected inputs, where it tests out user's inputs from the web application.
+
+### Varieties of Input
